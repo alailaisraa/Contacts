@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="open_contacts">Open Contacts</string>
+    <string name="no_name_selected">No Name Selected</string>
+    <string name="no_number_selected">No Number Selected</string>
+    <string name="get_contant">Get Contant</string>
+    <string name="go_to_contact_screen">Go To Contact Screen</string>
+    <string name="get_some_contacts">Get Some Contacts</string>
+
+    btngetcontacts
+</resources>
